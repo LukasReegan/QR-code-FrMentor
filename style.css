@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background-color: hsl(212, 45%, 89%);
+    font-family: Outfit;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.container {
+    margin: 15vh auto;
+    width: 360px;
+    height: 550px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    padding: 15px 15px 35px 15px;
+    margin-top: 20vh;
+}
+
+p {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-top: 25px;
+}
+
+h2 {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    margin-top: 25px;
+    letter-spacing: 0,75px;
+    font-size: 25px;
+}
